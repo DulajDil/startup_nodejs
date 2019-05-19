@@ -8,5 +8,6 @@ ncp-debug.log
 npm-debug.log
 .vscode
 .DS_Store
+.idea
 package-lock.json
-	
+
